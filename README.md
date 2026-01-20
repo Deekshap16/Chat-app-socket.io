@@ -1,3 +1,5 @@
+![Demo image ]
+
 # 💬 Real-Time Chat Application
 
 A modern, full-stack real-time chat application built with MERN Stack and Socket.IO.
