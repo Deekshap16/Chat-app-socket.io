@@ -1,4 +1,5 @@
-!https://github.com/Deekshap16/Chat-app-socket.io/blob/0046cbbcc18b89e2750bc3a642df464315d545fd/Screenshot%202026-01-20%20193210.png
+![Chat App Screenshot](https://raw.githubusercontent.com/Deekshap16/Chat-app-socket.io/0046cbbcc18b89e2750bc3a642df464315d545fd/Screenshot%202026-01-20%20193210.png)
+
 
 # 💬 Real-Time Chat Application
 
